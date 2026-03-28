@@ -38,7 +38,7 @@ Runs quietly in the system tray and updates automatically.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/syndicatplusplus/RADRichPresence.git
+git clone [https://github.com/syndicatplusplus/RADRichPresence.git](https://github.com/syndicatplusplus/RAD-Rich-Presence.git)
 cd RADRichPresence
 ```
 
