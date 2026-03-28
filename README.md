@@ -5,10 +5,10 @@ A lightweight desktop app that displays your **RetroAchievements activity** as a
 <table>
   <tr>
     <td align="center">
-      <img src="assets/new_achievement.gif" width="340"/>
+      <img src="assets/new_achievement.gif" width="370"/>
     </td>
     <td align="center">
-      <img src="assets/achievement_update.gif" width="340"/>
+      <img src="assets/achievement_update.gif" width="370"/>
     </td>
   </tr>
 </table>
