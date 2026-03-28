@@ -3,11 +3,11 @@
 A lightweight desktop app that displays your **RetroAchievements activity** as a **Discord Rich Presence**.
 
 <p align="center">
-  <img src="assets/new_achievement.gif" width="600"/>
+  <img src="assets/new_achievement.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="assets/achievement_update.gif" width="600"/>
+  <img src="assets/achievement_update.gif" width="300"/>
 </p>
 
 Shows:
