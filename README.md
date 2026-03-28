@@ -2,6 +2,14 @@
 
 A lightweight desktop app that displays your **RetroAchievements activity** as a **Discord Rich Presence**.
 
+<p align="center">
+  <img src="assets/new_achievement.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="assets/achievement_update.gif" width="600"/>
+</p>
+
 Shows:
 
 * 🎮 What you're currently playing
@@ -194,10 +202,3 @@ MIT License
 * RetroAchievements API
 * Discord Rich Presence
 * Python for being comfy and easy to use
-
----
-
-## 📸 Preview (eventually...)
-
-
----
